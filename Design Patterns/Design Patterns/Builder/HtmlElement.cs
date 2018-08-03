@@ -3,6 +3,7 @@ using System.Text;
 
 namespace DotNetDesignPatternDemos.Creational.Builder
 {
+
     public class HtmlElement
     {
         public string Name, Text;
