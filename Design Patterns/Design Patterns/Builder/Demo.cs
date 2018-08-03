@@ -12,6 +12,8 @@ namespace DotNetDesignPatternDemos.Creational.Builder
 
     public class Demo
     {
+
+        // Must be changed
         static void Main(string[] args)
         {
             // if you want to build a simple HTML paragraph using StringBuilder
