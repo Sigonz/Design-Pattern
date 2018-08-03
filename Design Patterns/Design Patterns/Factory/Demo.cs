@@ -10,16 +10,19 @@ namespace DotNetDesignPatternDemos.Creational.Factory
 
     //Start Factory Pattern
 
-    public class Demo
+    public class Factory
     {
-        static void Main(string[] args)
+        public Factory()
         {
 
+<<<<<<< HEAD
         }
 
         public void Factory()
         {
 
+=======
+>>>>>>> master
         }
     }
 }

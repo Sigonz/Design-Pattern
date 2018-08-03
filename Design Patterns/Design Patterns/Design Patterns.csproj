@@ -42,10 +42,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Builder\Demo.cs" />
+    <Compile Include="Builder\Builder.cs" />
     <Compile Include="Builder\HtmlBuilder.cs" />
     <Compile Include="Builder\HtmlElement.cs" />
-    <Compile Include="Factory\Demo.cs" />
+
+    <Compile Include="main.cs" />
+
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
