@@ -14,7 +14,12 @@ namespace DotNetDesignPatternDemos.Creational.Factory
     {
         static void Main(string[] args)
         {
-           
+
+        }
+
+        public void Factory()
+        {
+
         }
     }
 }
