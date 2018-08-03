@@ -8,12 +8,13 @@ using static System.Console;
 namespace DotNetDesignPatternDemos.Creational.Factory
 {
 
-    //Start Builder Pattern
+    //Start Factory Pattern
 
     public class Demo
     {
         static void Main(string[] args)
         {
+           
         }
     }
 }
