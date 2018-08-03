@@ -8,7 +8,7 @@ using static System.Console;
 namespace DotNetDesignPatternDemos.Creational.Builder
 {
 
-    //Start builder Program
+    //Start Builder Pattern
 
     public class Demo
     {
