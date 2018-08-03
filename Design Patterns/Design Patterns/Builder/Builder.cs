@@ -12,6 +12,7 @@ namespace DotNetDesignPatternDemos.Creational.Builder
 
     public class Builder
     {
+
         public  Builder()
 
         {
@@ -46,5 +47,6 @@ namespace DotNetDesignPatternDemos.Creational.Builder
             builder.AddChildFluent("li", "hello").AddChildFluent("li", "world");
             WriteLine(builder);
         }
+
     }
 }
