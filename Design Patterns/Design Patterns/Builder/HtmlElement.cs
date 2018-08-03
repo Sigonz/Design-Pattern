@@ -16,7 +16,7 @@ namespace DotNetDesignPatternDemos.Creational.Builder
 
         public HtmlElement()
         {
-
+            //Master
         }
 
         public HtmlElement(string name, string text)
