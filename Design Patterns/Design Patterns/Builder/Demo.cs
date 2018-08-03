@@ -7,7 +7,7 @@ using static System.Console;
 
 namespace DotNetDesignPatternDemos.Creational.Builder
 {
-    // Strat
+    // Strat progaram
     public class Demo
     {
         static void Main(string[] args)
