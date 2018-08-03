@@ -1,6 +1,6 @@
 ﻿namespace DotNetDesignPatternDemos.Creational.Builder
 {
-
+    // Builder 
     class HtmlBuilder
     {
         private readonly string rootName;
