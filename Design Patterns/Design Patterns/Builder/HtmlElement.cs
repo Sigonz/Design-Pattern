@@ -4,6 +4,7 @@ using System.Text;
 namespace DotNetDesignPatternDemos.Creational.Builder
 {
 
+    //indentSize=2
     public class HtmlElement
     {
         public string Name, Text;
