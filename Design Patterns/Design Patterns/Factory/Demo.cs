@@ -15,14 +15,7 @@ namespace DotNetDesignPatternDemos.Creational.Factory
         public Factory()
         {
 
-<<<<<<< HEAD
-        }
 
-        public void Factory()
-        {
-
-=======
->>>>>>> master
         }
     }
 }
