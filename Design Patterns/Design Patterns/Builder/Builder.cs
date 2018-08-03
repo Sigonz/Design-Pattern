@@ -10,9 +10,9 @@ namespace DotNetDesignPatternDemos.Creational.Builder
 
     //Start Builder Pattern
 
-    public class Demo
+    public class Builder
     {
-        static void Main(string[] args)
+        public  Builder()
         {
             // if you want to build a simple HTML paragraph using StringBuilder
             var hello = "hello";
