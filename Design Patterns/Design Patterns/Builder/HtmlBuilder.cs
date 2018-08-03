@@ -11,7 +11,7 @@
             root.Name = rootName;
         }
 
-        // not fluent
+        // not fluent pattern
         public void AddChild(string childName, string childText)
         {
             var e = new HtmlElement(childName, childText);
