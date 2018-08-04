@@ -51,6 +51,7 @@
     <Compile Include="Builder\KidsMenu.cs" />
     <Compile Include="main.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Proxy\Proxy.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
