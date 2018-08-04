@@ -8,10 +8,8 @@ namespace Design_Patterns.Proxy
 {
     class Proxy
     {
-<<<<<<< HEAD
+
         // proxy goes here
-=======
-        //
->>>>>>> proxy class commented empty
+
     }
 }
