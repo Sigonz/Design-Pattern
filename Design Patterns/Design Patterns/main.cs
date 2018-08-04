@@ -21,6 +21,11 @@ namespace Design_Patterns
             WriteLine(kidsMenu.GetMenu());            
 
 
+
+            //Factory patterns call
+
+            //Proxy patterns call
+
         }
 
     }
