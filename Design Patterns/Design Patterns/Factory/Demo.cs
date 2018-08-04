@@ -14,7 +14,7 @@ namespace DotNetDesignPatternDemos.Creational.Factory
     {
         public Factory()
         {
-
+            //Factory
         }
     }
 }
