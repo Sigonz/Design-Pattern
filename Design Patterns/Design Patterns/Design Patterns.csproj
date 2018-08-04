@@ -42,12 +42,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Builder\Builder.cs" />
-    <Compile Include="Builder\HtmlBuilder.cs" />
-    <Compile Include="Builder\HtmlElement.cs" />
-
+    <Compile Include="Builder\FullMenu.cs" />
+    <Compile Include="Builder\IMenuBuilder.cs" />
+    <Compile Include="Builder\Menu.cs" />
+    <Compile Include="Builder\MenuDirector.cs" />
+    <Compile Include="Builder\NoPattern.cs" />
+    <Compile Include="Factory\Demo.cs" />
+    <Compile Include="Builder\KidsMenu.cs" />
     <Compile Include="main.cs" />
-
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
