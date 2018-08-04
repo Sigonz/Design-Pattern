@@ -20,7 +20,7 @@ namespace Design_Patterns
             director.Build(kidsMenu);
             WriteLine(kidsMenu.GetMenu());            
 
-
+            //I want to call proxy here
         }
 
     }
