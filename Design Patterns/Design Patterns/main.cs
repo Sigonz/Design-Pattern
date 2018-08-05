@@ -1,4 +1,5 @@
-﻿using Design_Patterns.Builder;
+﻿using Design_Patterns.Builder.Food_Menu;
+using Design_Patterns.Builder.Vehicle_Industry;
 using static System.Console;
 
 namespace Design_Patterns
@@ -18,7 +19,12 @@ namespace Design_Patterns
 
             IMenuBuilder kidsMenu = new KidsMenu();
             director.Build(kidsMenu);
-            WriteLine(kidsMenu.GetMenu());            
+            WriteLine(kidsMenu.GetMenu());
+
+            VehicleDirector vDirector = new VehicleDirector();
+            IVehicleBuilder ford = new Ford();
+            vDirector.Construct(ford);
+            WriteLine(ford.GetVehicle().Model);
 
 
 

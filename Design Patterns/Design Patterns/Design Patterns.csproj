@@ -46,7 +46,11 @@
     <Compile Include="Builder\Food Menu\IMenuBuilder.cs" />
     <Compile Include="Builder\Food Menu\Menu.cs" />
     <Compile Include="Builder\Food Menu\MenuDirector.cs" />
+    <Compile Include="Builder\Vehicle Industry\Ford.cs" />
+    <Compile Include="Builder\Vehicle Industry\IVehicleBuilder.cs" />
+    <Compile Include="Builder\Vehicle Industry\Vehicle.cs" />
     <Compile Include="Builder\NoPattern.cs" />
+    <Compile Include="Builder\Vehicle Industry\VehicleDirector.cs" />
     <Compile Include="Factory\Demo.cs" />
     <Compile Include="Builder\Food Menu\KidsMenu.cs" />
     <Compile Include="main.cs" />

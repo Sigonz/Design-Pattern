@@ -1,7 +1,7 @@
 ﻿using System;
 using Design_Patterns.Builder;
 
-namespace Design_Patterns.Builder
+namespace Design_Patterns.Builder.Food_Menu
 {
     internal class KidsMenu : IMenuBuilder
     {
