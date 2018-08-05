@@ -42,13 +42,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Builder\FullMenu.cs" />
-    <Compile Include="Builder\IMenuBuilder.cs" />
-    <Compile Include="Builder\Menu.cs" />
-    <Compile Include="Builder\MenuDirector.cs" />
+    <Compile Include="Builder\Food Menu\FullMenu.cs" />
+    <Compile Include="Builder\Food Menu\IMenuBuilder.cs" />
+    <Compile Include="Builder\Food Menu\Menu.cs" />
+    <Compile Include="Builder\Food Menu\MenuDirector.cs" />
     <Compile Include="Builder\NoPattern.cs" />
     <Compile Include="Factory\Demo.cs" />
-    <Compile Include="Builder\KidsMenu.cs" />
+    <Compile Include="Builder\Food Menu\KidsMenu.cs" />
     <Compile Include="main.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Proxy\Proxy.cs" />
